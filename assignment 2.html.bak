@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+
+<h1 align="center">Contact Us</h1>
+
+<div>
+
+	<div>
+		<img src="images/whatsapp.png" width="150px" height="150px">
+		<h4>Whatsapp</h4>
+	</div>
+
+	<div>
+		<img src="images/telephne.jpg" width="150px" height="150px">
+		<h4>TELEPHONE</h4>
+	</div>
+
+	<div>
+		<img src="images/email.jpg" width="150px" height="150px">
+		<h4>E-mail</h4>
+	</div>
+
+	<div>
+		<img src="images/positive-feedback.webp" width="150px" height="150px">
+		<h4>Customer Feedback</h4>
+	</div>
+
+	<div>
+		<img src="images/escalate to CEO office.png" width="150px" height="150px">
+		<h4>Escalate to CEO office</h4>
+	</div>
+
+	</div>
+
+
+</body>
+</html>
